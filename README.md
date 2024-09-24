@@ -1,4 +1,4 @@
-## Image-Processing
+## IMAGE-PROCESSING
 
 ## Automatic Number Plate Recognition System
 
