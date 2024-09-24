@@ -1,6 +1,6 @@
-**Image-Processing**
+## Image-Processing
 
-**Automatic Number Plate Recognition System**
+## Automatic Number Plate Recognition System
 
 Automatic License/Number Plate Recognition is an image processing technique used to identify a car based on its number plate &  is the process of detecting the position of a number plate and then using the Optical Character Recognition(OCR) technique to identify the text on the plate.
 
